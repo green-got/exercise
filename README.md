@@ -9,3 +9,7 @@
 - Send me the github URL, the test command, and the deployment URL => fabien@green-got.com
 - If it passes the basic tests, we setup a meeting to talk about your code.
 - Then you talk to the others to check that you are a good fit. If you are, you're hired.
+
+# Questions ?
+
+Of course, you may have questions regarding the assignement and the position. Before starting the exercise you can shoot me an email and we will arrange a short meeting.
